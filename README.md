@@ -42,7 +42,7 @@ Exam details change. Always confirm them in the official [Microsoft AZ-900 study
 
 That is 3 domains and 11 topics. Spend your time in proportion to the weights: the heaviest domain decides more of your score than the lightest.
 
-Microsoft publishes each weight as a range (for example 25–30%). The figures here fall within those ranges, adjusted to add up to 100%.
+Microsoft publishes each weight as a range (for example 30–35%). The figures here fall within those ranges, adjusted to add up to 100%.
 
 ## What is in this repo
 
