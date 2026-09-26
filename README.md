@@ -135,7 +135,7 @@ Tick each topic off once you can explain it without notes. The "Must know" facts
 - [AZ-900 practice questions](https://www.savemycert.com/practice/azure-fundamentals/?utm_source=github&utm_medium=readme&utm_campaign=az-900-study-guide): with an explanation on every option
 - [AZ-900 mock exams](https://www.savemycert.com/mocks/azure-fundamentals/?utm_source=github&utm_medium=readme&utm_campaign=az-900-study-guide): full-length and timed
 - [AZ-900 cheat sheet](https://www.savemycert.com/cheat-sheet/azure-fundamentals/?utm_source=github&utm_medium=readme&utm_campaign=az-900-study-guide): the key facts on one page
-- [All certification study guides](https://github.com/savemycert-sketch/certification-study-guides)
+- [All certification study guides](https://github.com/savemycert/certification-study-guides)
 
 ## Contributing
 
